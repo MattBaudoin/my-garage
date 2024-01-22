@@ -1,0 +1,2 @@
+FLASK_APP=my_garage.py
+FLASK_ENV=development
